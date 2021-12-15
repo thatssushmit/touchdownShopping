@@ -1,5 +1,5 @@
 # touchdownShopping
-shpping application in swifyUI
+shopping application in swifyUI
 
 create a folder in you system
 
